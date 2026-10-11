@@ -67,6 +67,3 @@ Enter a research question when prompted. The report is printed in the terminal, 
 - **Gmail authentication error:** Verify that 2-Step Verification is enabled and that `SMTP_APP_PASSWORD` contains a valid Gmail app password.
 - **Search or email failures:** Check your internet connection and try again. The application attempts to email a failure notice when a research run fails.
 
-## Publishing
-
-Before pushing this project to a public repository, confirm that `.env` and generated PDFs are not staged. Do not publish passwords, app passwords, or other secrets. Choose and add a license if you intend to grant others permission to use, modify, or distribute the project.
